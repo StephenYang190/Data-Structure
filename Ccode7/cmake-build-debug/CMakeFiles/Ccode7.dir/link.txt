@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Ccode7.dir/Graph.c.o CMakeFiles/Ccode7.dir/Stack.c.o CMakeFiles/Ccode7.dir/Queue.c.o CMakeFiles/Ccode7.dir/task4.c.o  -o Ccode7.exe -Wl,--out-implib,libCcode7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

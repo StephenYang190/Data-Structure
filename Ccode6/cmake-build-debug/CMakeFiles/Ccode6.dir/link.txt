@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Ccode6.dir/task2.c.o CMakeFiles/Ccode6.dir/BinaryTree.c.o CMakeFiles/Ccode6.dir/TreeQueue.c.o CMakeFiles/Ccode6.dir/TreeStack.c.o  -o Ccode6.exe -Wl,--out-implib,libCcode6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

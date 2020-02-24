@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/f/personal_file/code_personal/data_structure/design/opinion19.cpp
+iostream
+-
+cstdlib
+-
+cstdio
+-
+string
+-
+vector
+-
+queue
+-
+fstream
+-
+

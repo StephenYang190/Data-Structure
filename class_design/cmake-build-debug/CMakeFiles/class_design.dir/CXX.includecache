@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/f/personal_file/code_personal/data_structure/class_design/my_Link.h
+
+/cygdrive/f/personal_file/code_personal/data_structure/class_design/test.cpp
+cstdlib
+-
+cstdio
+-
+my_Link.h
+/cygdrive/f/personal_file/code_personal/data_structure/class_design/my_Link.h
+iostream
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/f/personal_file/code_personal/data_structure/Ccode8/Sequence.h
+
+/cygdrive/f/personal_file/code_personal/data_structure/Ccode8/task5.c
+stdlib.h
+-
+stdio.h
+-
+Sequence.h
+/cygdrive/f/personal_file/code_personal/data_structure/Ccode8/Sequence.h
+

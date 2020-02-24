@@ -1,0 +1,6 @@
+#ifndef CLASS_DESIGN_LIBRARY_H
+#define CLASS_DESIGN_LIBRARY_H
+
+bool hello();
+
+#endif //CLASS_DESIGN_LIBRARY_H

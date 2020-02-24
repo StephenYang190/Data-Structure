@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Ccode8.dir/BinaryTree.c.o CMakeFiles/Ccode8.dir/TreeQueue.c.o CMakeFiles/Ccode8.dir/TreeStack.c.o CMakeFiles/Ccode8.dir/Sequence.c.o CMakeFiles/Ccode8.dir/Queue.c.o CMakeFiles/Ccode8.dir/task5.c.o  -o Ccode8.exe -Wl,--out-implib,libCcode8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

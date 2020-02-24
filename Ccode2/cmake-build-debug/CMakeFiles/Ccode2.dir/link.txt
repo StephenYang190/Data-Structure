@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Ccode2.dir/task4.c.o  -o Ccode2.exe -Wl,--out-implib,libCcode2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

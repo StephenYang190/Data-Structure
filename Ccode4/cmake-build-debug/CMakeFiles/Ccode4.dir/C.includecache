@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/code_personal/data_structure/Ccode4/SequenceLink.c
+stdio.h
+-
+stdlib.h
+-
+SequenceLink.h
+/cygdrive/d/code_personal/data_structure/Ccode4/SequenceLink.h
+
+/cygdrive/d/code_personal/data_structure/Ccode4/SequenceLink.h
+

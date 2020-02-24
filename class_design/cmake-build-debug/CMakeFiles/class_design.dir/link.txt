@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libclass_design.a  CMakeFiles/class_design.dir/library.cpp.o CMakeFiles/class_design.dir/my_Queue.cpp.o CMakeFiles/class_design.dir/my_Link.cpp.o CMakeFiles/class_design.dir/test.cpp.o
+/usr/bin/ranlib.exe libclass_design.a

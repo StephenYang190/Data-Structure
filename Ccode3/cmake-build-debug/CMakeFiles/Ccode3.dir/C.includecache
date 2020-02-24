@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/code_personal/data_structure/Ccode3/Link.c
+stdio.h
+-
+stdlib.h
+-
+Link.h
+/cygdrive/d/code_personal/data_structure/Ccode3/Link.h
+
+/cygdrive/d/code_personal/data_structure/Ccode3/Link.h
+
